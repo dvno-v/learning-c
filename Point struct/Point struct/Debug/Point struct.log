@@ -1,0 +1,6 @@
+﻿  Point.c
+C:\Personal Files\Study\C-Learning experience\Point struct\Point struct\Point.c(23,36): warning C4029: declared formal parameter list different from definition
+C:\Personal Files\Study\C-Learning experience\Point struct\Point struct\Point.c(26,36): warning C4029: declared formal parameter list different from definition
+  main.c
+  Generating Code...
+  Point struct.vcxproj -> C:\Personal Files\Study\C-Learning experience\Point struct\Point struct\Debug\Point struct.exe

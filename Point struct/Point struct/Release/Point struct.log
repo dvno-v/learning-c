@@ -1,0 +1,7 @@
+﻿  main.c
+  Generating code
+  3 of 7 functions (42.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Point struct.vcxproj -> C:\Personal Files\Study\C-Learning experience\Point struct\Point struct\Release\Point struct.exe
