@@ -1,0 +1,3 @@
+C:/Personal Files/Study/C-Learning experience/Point struct/2.Arrays/cmake-build-debug/CMakeFiles/2_Arrays.dir
+C:/Personal Files/Study/C-Learning experience/Point struct/2.Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Personal Files/Study/C-Learning experience/Point struct/2.Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
